@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @dzailz
-- 👀 I’m interested in automation testing, web development, programming
-- 🌱 I’m currently learning python playwright
+- 👋 Hi, I’m @dzailz 
+- 👀 I’m interested in automation testing, web development, programming and ML Engineering
+- 🌱 I’m currently learning Data Science and MLOps at [UrFU](https://urfu.ru/en/)
 <!---
-- 💞️ I’m looking to collaborate on ...
---->
+- 💞️ I’m glad to collaborate on any data science projects
+---> 
 - 📫 How to reach me telegram @dzailz
 
 <!---
