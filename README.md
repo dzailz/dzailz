@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dzailz 
 - 👀 I’m interested in automation testing, web development, programming and ML Engineering
-- 🌱 I’m currently learning Data Science and ML at [UrFU](https://urfu.ru/en/)
 <!---
 - 💞️ I’m glad to collaborate on any data science projects
 ---> 
